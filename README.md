@@ -1,4 +1,8 @@
 # InternetAndWeb_5130F2018
+Cameron Campbell
+Student ID: 01275423
+Internet and Web 5130 Fall 2018 (Tu 5:30 - 8:15)
+Course Project
 
 ###### 9/23/2018
 I've had a few ideas for a project related to Internet and Web:
