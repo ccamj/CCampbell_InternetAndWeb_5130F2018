@@ -7,6 +7,11 @@ Internet and Web 5130 Fall 2018 (Tu 5:30 - 8:15)
 
 Course Project
 
+###### 10/8/2018
+I had been playing around with my 3 previous ideas, looking at what I would be working on. I felt they were not unique/presentable enough to make a meaningful project. I came up with a new idea while I was at work, which is a social media platform suited for companies. This would basically be a group with a hiearchy of individualy employee profiles to represent their positions in the company. The last thing I think people need is another social media platform, but I think this would be more of an office organization tool. A service like this could make it easier to communicate with co-workers, and in larger companies you may not always know how to get in contact with everyone. This could help schedule meeting, post announcments, and manage who is working on a project, and what they are working on.
+
+I'm not aware of any prexisting platform designed for companies similar to this. LinkedIn and Facebook often have company pages, but those really aren't designed to help employess communicate. I could see this being useful in my own work, so I think it could be meaningful to others aswell.
+
 
 ###### 9/23/2018
 I've had a few ideas for a project related to Internet and Web:
