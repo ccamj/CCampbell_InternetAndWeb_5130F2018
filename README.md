@@ -5,7 +5,7 @@ Student ID: 01275423
 
 Internet and Web 5130 Fall 2018 (Tu 5:30 - 8:15)
 
-Course Project
+Course Project: Social Network for Companies
 
 ###### 10/8/2018
 I had been playing around with my 3 previous ideas, looking at what I would be working on. I felt they were not unique/presentable enough to make a meaningful project. I came up with a new idea while I was at work, which is a social media platform suited for companies. This would basically be a group with a hiearchy of individualy employee profiles to represent their positions in the company. The last thing I think people need is another social media platform, but I think this would be more of an office organization tool. A service like this could make it easier to communicate with co-workers, and in larger companies you may not always know how to get in contact with everyone. This could help schedule meeting, post announcments, and manage who is working on a project, and what they are working on.
