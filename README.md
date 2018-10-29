@@ -7,6 +7,20 @@ Internet and Web 5130 Fall 2018 (Tu 5:30 - 8:15)
 
 Course Project: Social Network for Companies
 
+###### 10/28/2018
+I've added user account login/signup forms and styles. Most of this is in PHP. In the next few days I want to try NodeJS because most recommendations point to node as the preferred client side language and it's known to be faster. For the coming weeks my plan is to accomplish the following:
+
+- Add an 'Organization Creation' page for a user to create their own company/organization page.
+
+- Create a group hierarchy that is visible by all members of the group. (A HR employee can look up an employee in accounting).
+
+- Add group pages for project sharing/collaboration
+
+- Add messaging between users
+
+I intend to work roughly in this order, but likely add some things inbetween.
+
+
 ###### 10/8/2018
 I had been playing around with my 3 previous ideas, looking at what I would be working on. I felt they were not unique/presentable enough to make a meaningful project. I came up with a new idea while I was at work which is a social media platform suited for companies. This would basically be a group with a hiearchy of individual employee profiles to represent their positions in their company. The last thing I think people need is another social media platform, but I think this would be more of an office organization tool. A service like this could make it easier to communicate with co-workers, and in larger companies you may not always know how to get in contact with everyone. This could help schedule meetings, post announcments, and manage who is working on a project, and what exactly they are currently working on.
 
