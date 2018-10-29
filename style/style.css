@@ -1,0 +1,199 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+button {
+    cursor: pointer;
+}
+
+body {
+    background-color: #F3F3F3;
+}
+
+.mainContent {
+    width: 900px;
+    margin: 0 auto;
+}
+
+header {
+    width: calc(100% - 30px);
+    height: 60px;
+    padding: 0 15px;
+    background-color: #FFF;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navHeader {
+    height: 80%;
+    display: flex;
+    flex-direction: row;
+}
+
+.headerLogo {
+    width: 48px;
+    padding-right: 20px;
+}
+
+.navHeader img {
+    height: 100%;
+}
+
+.navHeader ul {
+    height: 100%;
+}
+
+.navHeader ul li {
+    list-style: none;
+    float: left;
+    height: 100%;
+}
+
+.navHeader ul li a {
+    display: block;
+    height: 100%;
+    padding: 0 10px;
+    border-radius: 6px;
+    line-height: 48px;
+    font-family: arial, sans-serif;
+    font-size: 16px;
+    color: #111;
+    text-transform: uppercase;
+}
+
+.headerLogin {
+    height: 60%;
+    display: flex;
+    flex-direction: row;
+}
+
+.headerLogin form {
+    height: 100%;
+}
+
+.headerLogin form input {
+    height: 100%;
+    width: 160px;
+    padding: 0 15px;
+    border: none;
+    border-radius: 4px;
+    background-color: #F6F6F6;
+    float: left;
+    margin-left: 8px;
+    font-family: arial, sans-serif;
+}
+
+.headerLogin form button {
+    height: 100%;
+    padding: 0 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: #333;
+    margin-left: 8px;
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    color: #FFF;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.headerSignup {
+    height: 100%;
+    width: 70px;
+    padding: 0 6px;
+    border: none;
+    border-radius: 4px;
+    margin-left: 8px;
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    line-height: 36px;
+    color: #111;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+main {
+    padding-top: 20px;
+}
+
+.secDefault {
+    width: 100%;
+    padding: 20px;
+    border-radius: 6px;
+    background-color: #FFF;
+}
+
+.login-status {
+    text-align: center;
+    font-size: 26px;
+    font-family: arial, sans-serif;
+    color: #111;
+}
+
+h1 {
+    text-align: center;
+    font-size: 26px;
+    font-family: arial, sans-serif;
+    color: #111;
+}
+
+.formSignup {
+    margin: 0 auto;
+    padding-top: 20px;
+    width: 200px;
+}
+
+.formSignup input {
+    width: 100%;
+    height: 30px;
+    padding: 0 15px;
+    margin-bottom: 6px;
+    border: 1px solid #CCC;
+    border-radius: 4px;
+    background-color: #F6F6F6;
+    float: left;
+    font-family: arial, sans-serif;
+}
+
+.formSignup button {
+    display: block;
+    height: 40px;
+    padding: 0 10px;
+    margin: 0 auto;
+    border: none;
+    border-radius: 4px;
+    background-color: #333;
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    color: #FFF;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.formSignup label {
+    display: block;
+    text-align: center;
+    font-size: 13px;
+    font-family: arial, sans-serif;
+    color: #111;
+}
+
+.signuperror {
+    padding-top: 14px;
+    font-family: arial, sans-serif;
+    font-size: 16px;
+    color: red;
+    text-align: center;
+}
+
+.signupsuccess {
+    padding-top: 14px;
+    font-family: arial, sans-serif;
+    font-size: 16px;
+    color: green;
+    text-align: center;
+}
